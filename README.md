@@ -79,13 +79,13 @@ The application provides secure user authentication using JWT.
 
 Users can register by providing their name, email, and password.
 
-![User Registration](./screenshots/register.png)
+![User Registration](./screenshorts/register.png)
 
 ### User Login
 
 After successful login, the authenticated user can access protected APIs using JWT authentication.
 
-![User Login](./screenshots/login.png)
+![User Login](./screenshorts/login.png)
 
 ---
 
@@ -111,11 +111,11 @@ CLOSED
 
 ### Create Account
 
-![Create Account](./screenshots/createAccount.png)
+![Create Account](./screenshorts/createAccount.png)
 
 ### Get Account
 
-![Get Account](./screenshots/getAccount.png)
+![Get Account](./screenshorts/getAccount.png)
 
 ---
 
@@ -175,7 +175,7 @@ Sender Account
 Receiver Account
 ```
 
-![Normal Transaction](./screenshots/transaction.png)
+![Normal Transaction](./screenshorts/transaction.png)
 
 ---
 
@@ -224,7 +224,7 @@ System Account
 User Account
 ```
 
-![System Initial Fund](./screenshots/systemInitialFund.png)
+![System Initial Fund](./screenshorts/systemInitialFund.png)
 
 ---
 
@@ -241,7 +241,7 @@ These entries are linked to the same transaction.
 
 ### Ledger Entries
 
-![Ledger Entries](./screenshots/ledger.png)
+![Ledger Entries](./screenshorts/ledger.png)
 
 The ledger is also used to calculate the current account balance.
 
