@@ -369,6 +369,29 @@ http://localhost:3000
 
 ---
 
+## 🌐 Deployment
+
+The backend is deployed on **Render**.
+
+**Backend URL:**  
+https://backend-ledger-kar1.onrender.com
+
+### Deployment Details
+
+| Configuration | Details |
+|---|---|
+| Platform | Render |
+| Service Type | Web Service |
+| Environment | Node.js |
+| Start Command | `node server.js` |
+| Database | MongoDB |
+| Status | Live |
+
+### Production API Example
+
+```http
+POST https://backend-ledger-kar1.onrender.com/api/auth/login
+
 ## 🧪 API Testing
 
 The APIs can be tested using **Postman**.
